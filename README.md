@@ -21,3 +21,17 @@ This project is a simple Student Attendance Management System developed to manag
 3. **Customer Collaboration:** User feedback helps improve the system.
 
 4. **Responding to Change:** New features like Delete Student can be added when requirements change.
+5. ## Agile Principles
+
+1. Customer satisfaction through continuous improvement.
+2. Welcome changing requirements.
+3. Deliver working software frequently.
+4. Developers and users work together.
+5. Build projects with motivated people.
+6. Direct communication is important.
+7. Working software is the main measure of progress.
+8. Maintain a sustainable development pace.
+9. Focus on good design and technical quality.
+10. Keep things simple.
+11. Organize work through teamwork.
+12. Regularly review and improve the process.
