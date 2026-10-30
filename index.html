@@ -112,6 +112,10 @@
         students[index].status = status;
         displayStudents();
     }
+    function deleteStudent(index) {
+    students.splice(index, 1);
+    displayStudents();
+}
 
     function displayStudents() {
         let list = document.getElementById("studentList");
@@ -132,6 +136,9 @@
                     <button onclick="markAttendance(${index}, 'Absent')">
                         Absent
                     </button>
+                    <button onclick="deleteStudent(${index})">
+    Delete
+</button>
                 </td>
             `;
 
