@@ -1,27 +1,30 @@
-# Student-Attendance-Management
+Student-Attendance-Management
+
 Agile-based Student Attendance Management System
-## Project Description
 
-This project is a simple Student Attendance Management System developed to manage student attendance.
+Project Description
 
-## Features
+This project is a simple Student Attendance Management System developed to manage student details and attendance efficiently.
+
+Features
 
 - Add Student
+- Edit Student Name
 - Mark Attendance as Present
 - Mark Attendance as Absent
 - Delete Student
 - View Attendance Summary
+- Calculate Attendance Percentage
+- Generate CSV Attendance Report
 
-- ## Agile Values
+Agile Values
 
-1. **Individuals and Interactions:** Team members communicate to improve the application.
+1. Individuals and Interactions: Team members communicate to improve the application.
+2. Working Software: The attendance system provides working features.
+3. Customer Collaboration: User feedback helps improve the system.
+4. Responding to Change: New features can be added when requirements change.
 
-2. **Working Software:** The attendance system provides working features.
-
-3. **Customer Collaboration:** User feedback helps improve the system.
-
-4. **Responding to Change:** New features like Delete Student can be added when requirements change.
-5. ## Agile Principles
+Agile Principles
 
 1. Customer satisfaction through continuous improvement.
 2. Welcome changing requirements.
